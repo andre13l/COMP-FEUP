@@ -5,4 +5,5 @@ import pt.up.fe.comp.jmm.ollir.OllirResult;
 
 public interface JasminBackend {
     JasminResult toJasmin(OllirResult ollirResult);
+
 }
